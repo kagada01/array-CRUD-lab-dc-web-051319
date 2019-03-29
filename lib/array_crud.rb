@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  
+  not_empty_array = ["Harry Potter", "Ron Weasley", "Hermoine Granger", "Draco Malfoy"]
 end
 
 def add_element_to_end_of_array(array, element)
